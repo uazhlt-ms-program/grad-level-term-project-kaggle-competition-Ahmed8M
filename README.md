@@ -20,7 +20,8 @@ I define a function called train_and_evaluate_model that takes the selected trai
 
 # Results
 The model achieves a validation accuracy of 92.38% and a macro-averaged F1-score of 91.19%, indicating its effectiveness in distinguishing between the three categories of documents.
-
+# Code
+https://github.com/uazhlt-ms-program/grad-level-term-project-kaggle-competition-Ahmed8M
 # Notes
 - **At least one of your submitted solutions must use one or more of the classification algorithms covered in this course**
 - You are not obligated to use Python
